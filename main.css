@@ -1,0 +1,82 @@
+body{
+    text-align: center;
+}
+h1{
+    background-color: aqua;
+    border: 2px solid red;
+    border-radius: 20px;
+}
+
+p{
+    text-align: start;
+
+}
+
+span{
+    color: red;
+}
+
+.aa{
+    color: green;
+    text-align: start;
+}
+
+ul{
+    text-align: start;
+}
+
+.bb{
+background-color: yellow;
+border-radius: 5px;
+}
+
+.dd{
+    background-color: yellow;
+}
+
+ .oo{
+    text-align: start;
+    color: cadetblue;
+ }
+
+form{
+    text-align: start;
+ }
+ button{
+    color: white;
+    background-color: darkslateblue;
+    width: 200px;
+    height: 20px;
+ }
+
+ table{
+    border-collapse: collapse;
+    width: 100%;
+ }
+
+ th{
+    border: 3px solid black;
+    color: white;
+ }
+
+ td{
+    border: 3px solid black;
+    color: white;
+ }
+
+ .animal{
+    color: white;
+    background-color: green;
+ }
+
+ .qiziq{
+    background-color: blue;
+ }
+
+ .sher{
+    background-color: red;
+ }
+
+ .fil{
+    background-color: black;
+ }
